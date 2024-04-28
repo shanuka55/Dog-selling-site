@@ -28,6 +28,9 @@
     align-items: center;
     padding: 3rem;
     color: white;
-    bottom: 100px;
+    bottom: 120px;
     position: relative;
+}
+.Breeds-container button {
+    margin-top: 1rem;
 }
