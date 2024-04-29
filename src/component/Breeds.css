@@ -12,9 +12,8 @@
     grid-template-columns: repeat(2, 1fr);
 }
 .Breeds-container .container img {
-    width: 600px;
-    height: 600px;
-    
+    width: 700px;
+    height: 700px;   
 }
 
 .Breeds-container h2 {
