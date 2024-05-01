@@ -1,6 +1,9 @@
 import React from 'react'
 import '../component/Find.css';
 import { FcFilledFilter } from "react-icons/fc";
+import image1 from "../Assets/labrodor.png";
+import image2 from "../Assets/Rottweiler.png";
+import image3 from "../Assets/Beagle.png";
 
 const Find = () => {
   return (
@@ -39,9 +42,34 @@ const Find = () => {
 
             <button className='filter-btn'>Filter<FcFilledFilter /></button> 
         </div>
+
+        {/* <div className='selling-dogs'>
+          {D.map((p) => (
+            <div className="card">
+                <img className='card-image' src={p.img} alt=""/>
+                <div className="category"> Illustration </div>
+                <div className="heading"> A heading that must span over two lines
+                    <div className="author"> By <span class="name">Abi</span> 4 days ago</div>
+                </div>
+            </div>
+              
+          ))}
+          
+        </div> */}
         
     </div>
   )
 }
+const D = [
+  {
+    img : image1
+  },
+  {
+    img : image2
+  },
+  {
+    img : image3
+  }
+]
 
 export default Find

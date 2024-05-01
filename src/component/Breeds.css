@@ -33,3 +33,27 @@
 .Breeds-container button {
     margin-top: 1rem;
 }
+
+@media screen and (max-width:940px) {
+    .Breeds-container .container img {
+        width: 400px;
+        height: 400px;   
+    }
+    .Breeds-container .col-2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 1rem;
+        color: white;
+        bottom:30px;
+        position: relative;
+    }
+    .Breeds-container .container {
+        width: 640px;
+        margin: auto;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+}

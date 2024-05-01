@@ -29,6 +29,16 @@
     padding: 3rem;
 }
 
+.reveal{
+    position: relative;
+    transform: translateY(150px);
+    opacity: 0;
+    transition: all 2s ease;
+}
+.reveal.active {
+    transform: translateY(0px);
+    opacity: 1;
+}
 .about .col-2 p:first-of-type {
     margin: 2rem 0;
 }
