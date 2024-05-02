@@ -30,17 +30,17 @@ const Footer = () => {
             </div>
             <div class="footer-link">
               <h3>Service Area</h3>
-              <a href="">City 1</a>
-              <a href="">City 2</a>
-              <a href="">City 3</a>
-              <a href="">City 4</a>
-              <a href="">City 5</a>
+              <a href="#">City 1</a>
+              <a href="#">City 2</a>
+              <a href="#">City 3</a>
+              <a href="#">City 4</a>
+              <a href="#">City 5</a>
             </div>
             <div class="footer-link">
               <h3>Useful Link</h3>
-              <a href="">FAQs</a>
-              <a href="">Terms of Service</a>
-              <a href="">Privacy Policy</a>
+              <a href="#">FAQs</a>
+              <a href="#">Terms of Service</a>
+              <a href="#">Privacy Policy</a>
               
             </div>
             <div class="footer-contact">
@@ -49,22 +49,22 @@ const Footer = () => {
               <p><i class="fa fa-phone-alt"></i>+94 78 5 554456</p>
               <p><i class="fa fa-envelope"></i>dogs@example.com</p>
               <div class="footer-social">
-                <a href=""><i class="fab fa-twitter"><FaTwitter /></i></a>
-                <a href=""><i class="fab fa-facebook-f"><ImFacebook2 /></i></a>
-                <a href=""><i class="fab fa-youtube"><BsYoutube /></i></a>
-                <a href=""><i class="fab fa-instagram"><RiInstagramFill /></i></a>
-                <a href=""><i class="fab fa-linkedin-in"><BsLinkedin />
+                <a href="#"><i class="fab fa-twitter"><FaTwitter /></i></a>
+                <a href="#"><i class="fab fa-facebook-f"><ImFacebook2 /></i></a>
+                <a href="#"><i class="fab fa-youtube"><BsYoutube /></i></a>
+                <a href="#"><i class="fab fa-instagram"><RiInstagramFill /></i></a>
+                <a href="#"><i class="fab fa-linkedin-in"><BsLinkedin />
 </i></a>
               </div>
             </div>
         </div>
         <div class="container footer-menu">
             <div class="f-menu">
-            <a href="">Terms of use</a>
-            <a href="">Privacy policy</a>
-            <a href="">Cookies</a>
-            <a href="">Help</a>
-            <a href="">FQAs</a>
+            <a href="#">Terms of use</a>
+            <a href="#">Privacy policy</a>
+            <a href="#">Cookies</a>
+            <a href="#">Help</a>
+            <a href="#">FQAs</a>
             </div>
         </div>
         <div class="container copyright">
