@@ -34,6 +34,10 @@
     margin-top: 1rem;
 }
 
+.num{
+    margin-top: 2rem;
+}
+
 @media screen and (max-width:940px) {
     .Breeds-container .container img {
         width: 400px;

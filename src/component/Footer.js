@@ -1,13 +1,21 @@
 import React from 'react'
 import '../component/Footer.css';
 
+import { FaTwitter } from "react-icons/fa";
+import { ImFacebook2 } from "react-icons/im";
+import { BsYoutube } from "react-icons/bs";
+import { RiInstagramFill } from "react-icons/ri";
+import { BsLinkedin } from "react-icons/bs";
+
+
 const Footer = () => {
     return (
-       <div className='footer'>
+       <div className='footer' id='footer'>
         <div className='container'>
             <div className="newsletter">
                 <h2>Contact Us</h2>
-                <div class="form">
+                <span className='line'></span>
+                <div className="form">
                     <input className="input-from" placeholder="Email here"/>
                     <button className="submit-btn">Submit</button>
                 </div>
@@ -22,19 +30,18 @@ const Footer = () => {
             </div>
             <div class="footer-link">
               <h3>Service Area</h3>
-              <a href="">Lorem ipsum</a>
-              <a href="">tempus posuere </a>
-              <a href="">velit id accumsan</a>
-              <a href="">ut porttitor</a>
-              <a href="">Nam pretium</a>
+              <a href="">City 1</a>
+              <a href="">City 2</a>
+              <a href="">City 3</a>
+              <a href="">City 4</a>
+              <a href="">City 5</a>
             </div>
             <div class="footer-link">
               <h3>Useful Link</h3>
-              <a href="">Sed pretium</a>
-              <a href="">ultricies turpis at</a>
-              <a href="">Mauris cursus</a>
-              <a href="">consectetur</a>
-              <a href="">condimentum</a>
+              <a href="">FAQs</a>
+              <a href="">Terms of Service</a>
+              <a href="">Privacy Policy</a>
+              
             </div>
             <div class="footer-contact">
               <h3>Get In Touch</h3>
@@ -42,11 +49,12 @@ const Footer = () => {
               <p><i class="fa fa-phone-alt"></i>+94 78 5 554456</p>
               <p><i class="fa fa-envelope"></i>dogs@example.com</p>
               <div class="footer-social">
-                <a href=""><i class="fab fa-twitter"></i></a>
-                <a href=""><i class="fab fa-facebook-f"></i></a>
-                <a href=""><i class="fab fa-youtube"></i></a>
-                <a href=""><i class="fab fa-instagram"></i></a>
-                <a href=""><i class="fab fa-linkedin-in"></i></a>
+                <a href=""><i class="fab fa-twitter"><FaTwitter /></i></a>
+                <a href=""><i class="fab fa-facebook-f"><ImFacebook2 /></i></a>
+                <a href=""><i class="fab fa-youtube"><BsYoutube /></i></a>
+                <a href=""><i class="fab fa-instagram"><RiInstagramFill /></i></a>
+                <a href=""><i class="fab fa-linkedin-in"><BsLinkedin />
+</i></a>
               </div>
             </div>
         </div>

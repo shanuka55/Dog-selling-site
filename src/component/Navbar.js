@@ -38,10 +38,10 @@ const Navbar = () => {
 
             </div>
             <ul className={click ? "nav-menu active" : "nav-menu"}>
-                <li className='nav-item'><Link to="/" spy={true} smooth={true} offset={-100} duration={500}>Home</Link></li>
-                <li className='nav-item'><Link to="" spy={true} smooth={true} offset={-100} duration={500}>About Us</Link></li>
-                <li className='nav-item'><Link to="/Find" spy={true} smooth={true} offset={-100} duration={500}>Dog Breeds</Link></li>
-                <li className='nav-item'><Link to="" spy={true} smooth={true} offset={-150} duration={500}>Countact Us</Link></li>
+                <li className='nav-item'><Link to="hero" spy={true} smooth={true} offset={-100} duration={500}>Home</Link></li>
+                <li className='nav-item'><Link to="about" spy={true} smooth={true} offset={-100} duration={500}>About Us</Link></li>
+                <li className='nav-item'><Link to="breeds" spy={true} smooth={true} offset={-100} duration={500}>Dog Breeds</Link></li>
+                <li className='nav-item'><Link to="footer" spy={true} smooth={true} offset={-150} duration={500}>Countact Us</Link></li>
                 <button className='signin-btn'> <span>Sign In</span>
                 </button>
             </ul>

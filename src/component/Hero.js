@@ -4,7 +4,7 @@ import '../component/Hero.css'
 const Hero = () => {
   return (
     
-    <div className='hero'>
+    <div className='hero' id='hero'>
             <div className='content'>
                 <p>Call us</p>
                 <p>+94 78 5 554456</p>

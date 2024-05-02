@@ -21,7 +21,7 @@ const Breeds = () => {
   
   return (
     
-    <div className='Breeds-container'>
+    <div className='Breeds-container' id='breeds'>
       <Fade>
         
         {data.map((d) => (
@@ -32,7 +32,7 @@ const Breeds = () => {
               <span className='line'></span>
               <p>{d.review}</p>
               <button className='button'>Know more</button>  
-              <p>{d.num}</p> 
+              <p className='num'>{d.num}</p> 
             </div>
           </div>
         ))}  
