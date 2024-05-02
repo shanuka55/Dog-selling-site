@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Dog-selling-site/static/css/main.9560cffa.css",
+    "main.js": "/Dog-selling-site/static/js/main.8d6ae516.js",
+    "static/js/453.a6a97343.chunk.js": "/Dog-selling-site/static/js/453.a6a97343.chunk.js",
+    "static/media/main.jpg": "/Dog-selling-site/static/media/main.d476241f7648dd5dcef2.jpg",
+    "static/media/8.png": "/Dog-selling-site/static/media/8.b09ca25676292aeb0da8.png",
+    "static/media/labrodor.png": "/Dog-selling-site/static/media/labrodor.1499ecfb06f233caf32a.png",
+    "static/media/golden-rettriwer.png": "/Dog-selling-site/static/media/golden-rettriwer.e15261c6edb5f307c69b.png",
+    "static/media/german-shepherd.png": "/Dog-selling-site/static/media/german-shepherd.53dda7a5ca74d13df3ca.png",
+    "static/media/poodle.png": "/Dog-selling-site/static/media/poodle.fa231c2fee5a5332efc3.png",
+    "static/media/Beagle.png": "/Dog-selling-site/static/media/Beagle.3a09eae37f90180d634d.png",
+    "static/media/Rottweiler.png": "/Dog-selling-site/static/media/Rottweiler.f1a69f44ff310a30785f.png",
+    "static/media/husky.png": "/Dog-selling-site/static/media/husky.9737721b0585faef1d2f.png",
+    "static/media/shih-tzu.png": "/Dog-selling-site/static/media/shih-tzu.ab15554a3ba9edf355a7.png",
+    "static/media/boxer.png": "/Dog-selling-site/static/media/boxer.c8d22628651a211f4d8d.png",
+    "static/media/spitz.png": "/Dog-selling-site/static/media/spitz.ff375bd16de6712e991d.png",
+    "static/media/logo.png": "/Dog-selling-site/static/media/logo.f2f693ea2413ceca30d9.png",
+    "index.html": "/Dog-selling-site/index.html",
+    "main.9560cffa.css.map": "/Dog-selling-site/static/css/main.9560cffa.css.map",
+    "main.8d6ae516.js.map": "/Dog-selling-site/static/js/main.8d6ae516.js.map",
+    "453.a6a97343.chunk.js.map": "/Dog-selling-site/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9560cffa.css",
+    "static/js/main.8d6ae516.js"
+  ]
+}
