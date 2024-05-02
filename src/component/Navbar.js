@@ -24,7 +24,7 @@ const Navbar = () => {
 
 
  //close menu on click
-    const closeMenu = () => setClick(false)
+    // const closeMenu = () => setClick(false)
 
   return (
     <header className={color ? 'header header-bg' : 'header'}>

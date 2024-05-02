@@ -12,7 +12,7 @@ import image9 from "../Assets/spitz.png";
 import image10 from "../Assets/golden-rettriwer.png";
 
 import 'react-slideshow-image/dist/styles.css'
-import { Slide, Fade,  } from 'react-slideshow-image';
+import {  Fade } from 'react-slideshow-image';
 
 
 
