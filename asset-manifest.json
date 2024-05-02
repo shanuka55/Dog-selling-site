@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Dog-selling-site/static/css/main.9560cffa.css",
-    "main.js": "/Dog-selling-site/static/js/main.8d6ae516.js",
+    "main.js": "/Dog-selling-site/static/js/main.7012d55c.js",
     "static/js/453.a6a97343.chunk.js": "/Dog-selling-site/static/js/453.a6a97343.chunk.js",
     "static/media/main.jpg": "/Dog-selling-site/static/media/main.d476241f7648dd5dcef2.jpg",
     "static/media/8.png": "/Dog-selling-site/static/media/8.b09ca25676292aeb0da8.png",
@@ -18,11 +18,11 @@
     "static/media/logo.png": "/Dog-selling-site/static/media/logo.f2f693ea2413ceca30d9.png",
     "index.html": "/Dog-selling-site/index.html",
     "main.9560cffa.css.map": "/Dog-selling-site/static/css/main.9560cffa.css.map",
-    "main.8d6ae516.js.map": "/Dog-selling-site/static/js/main.8d6ae516.js.map",
+    "main.7012d55c.js.map": "/Dog-selling-site/static/js/main.7012d55c.js.map",
     "453.a6a97343.chunk.js.map": "/Dog-selling-site/static/js/453.a6a97343.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9560cffa.css",
-    "static/js/main.8d6ae516.js"
+    "static/js/main.7012d55c.js"
   ]
 }
